@@ -1,0 +1,3 @@
+[console_scripts]
+gpx_converter = gpx_converter.cli:main
+
